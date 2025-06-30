@@ -1,6 +1,6 @@
 #  Heart Disease Prediction using Decision Trees & Random Forests
 
->  Internship Task 5 – Tree-Based Machine Learning Models  
+>  Tree-Based Machine Learning Models  
 >  Completed by: Tirtha Dutta  
 >  Project Type: Classification | 📊 Model Type: Supervised Learning  
 
